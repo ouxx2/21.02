@@ -9,4 +9,5 @@ int main()
 	cin >> a >> b;
 	c = a + b;
 	cout << "Сумма чисел: " << endl;
+	cout << "привет!";
 }
