@@ -10,4 +10,5 @@ int main()
 	c = a + b;
 	cout << "Сумма чисел: " << endl;
 	cout << "привет!";
+	//dhhdjdh
 }
